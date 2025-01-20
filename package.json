@@ -1,0 +1,52 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Akshay Saini",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite --mode development",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namastedev/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "Shahaji Kokane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namastedev/namaste-react/issues"
+  },
+  "homepage": "https://github.com/namastedev/namaste-react#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "@reduxjs/toolkit": "^2.5.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "d": "^1.0.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^6.28.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.26.3",
+    "@testing-library/react": "^16.1.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "jsdom": "^26.0.0",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "vite": "^6.0.7",
+    "vitest": "^2.1.8"
+  }
+}
