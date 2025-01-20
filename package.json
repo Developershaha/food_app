@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "description": "This is Namaste React by Akshay Saini",
   "scripts": {
-    "dev": "vite",
-    "start": "vite --mode development",
+    "start": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "test": "jest"
+    "lint": "eslint .",
+    "preview": "vite preview"
   },
   "repository": {
     "type": "git",
